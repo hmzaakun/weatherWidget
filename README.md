@@ -3,7 +3,7 @@
 Widget Météo (Linux) en temps réel basé sur une API (https://weatherstack.com/).
 La météo par défaut est celle de Paris, l'utilisateur peut par la suite rechercher la ville qu'il souhaite.
 Le widget intègre également un conseiller vestimentaire en fonction de la météo
-mais également un conseiller en jardinerie qui conseille quels fruits et légumes planter ou ceuillir en fonction de la saison.
+mais également un conseiller en jardinerie qui conseille quels fruits et légumes planter ou cueillir en fonction de la saison.
 
 
 ## Screenshot
