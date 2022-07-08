@@ -20,7 +20,7 @@ mais également un conseiller en jardinerie qui conseille quels fruits et légum
 git clone https://github.com/hmzaakun/weatherWidget
 ```
 
-####Aller dans le fichier puis
+#### Aller dans le fichier puis
 
 Installer/mettre à jour les libs
 
@@ -28,7 +28,7 @@ Installer/mettre à jour les libs
 cd installer/ && ./installer.sh
 ```
 
-####Pour le lancer simplement
+#### Pour le lancer simplement
 
 ```bash
 ./launch.sh
